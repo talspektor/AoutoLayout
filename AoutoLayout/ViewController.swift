@@ -8,13 +8,25 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+extension UIColor {
+    static let pinkColor = UIColor(red: 232/255, green: 68/255, blue: 133/255, alpha: 1)
+}
 
+class ViewController: UIViewController {
+    
+   
+    
+
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+        
+        
+        
     }
-
-
+    
+   
+    
 }
 
